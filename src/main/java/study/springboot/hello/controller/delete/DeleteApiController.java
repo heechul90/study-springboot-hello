@@ -1,4 +1,4 @@
-package study.springboot.hello.controller.delete.controller;
+package study.springboot.hello.controller.delete;
 
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.PathVariable;
