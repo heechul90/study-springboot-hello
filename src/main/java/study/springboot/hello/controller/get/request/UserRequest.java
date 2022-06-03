@@ -1,4 +1,4 @@
-package study.springboot.hello.dto;
+package study.springboot.hello.controller.get.request;
 
 import lombok.Getter;
 import lombok.Setter;

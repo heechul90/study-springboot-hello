@@ -1,7 +1,7 @@
-package study.springboot.hello.controller;
+package study.springboot.hello.controller.get;
 
 import org.springframework.web.bind.annotation.*;
-import study.springboot.hello.dto.UserRequest;
+import study.springboot.hello.controller.get.request.UserRequest;
 
 import java.util.Map;
 
